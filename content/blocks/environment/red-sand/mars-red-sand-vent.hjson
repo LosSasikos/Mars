@@ -1,0 +1,8 @@
+type: SteamVent
+name: Red Sand Vent
+blendGroup: red-sand-floor
+parent: red-sand-floor
+attributes: {
+   steam: 1
+}
+variants: 2

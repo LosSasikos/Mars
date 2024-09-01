@@ -1,0 +1,6 @@
+type: TallBlock
+name: Large Red Sand Boulder
+clipsize: 128
+shadowAlpha: 0.25
+shadowOffset: -1.25
+variants: 2
