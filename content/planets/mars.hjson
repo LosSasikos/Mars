@@ -1,0 +1,133 @@
+generator: {
+  octaves: 6
+  persistence: 2.2
+  scale: 20
+  mag: 0.7
+  thresh: 1
+  min: 100
+  max: 200
+  radMin: 265
+  radMax: 550
+}
+localizedName: Mars
+description: Its Mars
+alwaysUnlocked: true
+sectorSize: 0.75
+startSector: 0
+orbitSpacing: 3
+orbitRadius: 90
+radius: 0.7
+minZoom: 1
+drawOrbit: true
+atmosphereRadIn: 0.03
+atmosphereRadOut: 0.34
+accessible: true
+updateLighting: false
+sectorSeed: 1053
+bloom: false
+visible: true
+atmosphereColor: a83b44
+iconColor: a83b44
+hasAtmosphere: true
+defaultCore: core-octave
+parent: sun
+allowLaunchSchematics: false
+allowLaunchToNumbered: false
+allowLaunchLoadout: false
+allowSectorInvasion: true
+allowWaveSimulation: true
+clearSectorOnLose: true
+allowWaves: true
+prebuildBase: true
+mesh: [
+ {
+    // red
+    type: NoiseMesh
+    planet: mars
+    divisions: 5
+    seed: 40
+    radius: 0.35
+    color1: ee2240
+    color2: 782537
+    octaves: 5.5
+    persistence: 1.1
+    scale: 0.74
+    mag: 0.7
+  }
+  {
+    // snow
+    type: NoiseMesh
+    planet: mars
+    divisions: 5
+    radius: 0.72
+    seed: 50
+    color1: ffd1d1
+    color2: f5a1a1
+    octaves: 5.4
+    persistence: 1.1
+    scale: 0.24
+    mag: 0.7
+  }
+]
+cloudMesh: [
+  {
+   type: HexSkyMesh
+   planet: mars
+   speed: 0.4
+   radius: 0.40
+   divisions: 6
+   color: bdd3d8e0
+   octaves: 3
+   persistence: 0.3
+   scl: 0.3
+   thresh: 0.3
+  }
+    {
+   type: HexSkyMesh
+   planet: mars
+   speed: 1.2
+   radius: 0.28
+   divisions: 6
+   color: bdd3d8bd
+   octaves: 4
+   persistence: 0.3
+   scl: 1
+   thresh: 0.3
+  }
+    {
+   type: HexSkyMesh
+   planet: mars
+   speed: 0.85
+   radius: 0.25
+   divisions: 6
+   color: bdd3d87a
+   octaves: 6
+   persistence: 0.3
+   scl: 0.75
+   thresh: 0.2
+  }
+]
+hiddenItems: [
+    "copper"
+    "lead"
+    "scrap"
+    "graphite"
+    "coal"
+    "silicon"
+    "titanium"
+    "thorium"
+    "plastanium"
+    "phase-fabric"
+    "surge-alloy"
+    "spore-pod"
+    "sand"
+    "blast-compound"
+    "pyratite"
+    "metaglass"
+    "beryllium"
+    "oxide"
+    "tungsten"
+    "carbide"
+    "fissile-matter"
+    "dormant-cyst"
+]
