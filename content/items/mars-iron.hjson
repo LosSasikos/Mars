@@ -1,0 +1,8 @@
+name: Iron
+description: Is iron.
+hardness: 1
+cost: 0.75
+alwaysUnlocked: false
+color: cdb5a5
+research: core-octave
+hiddenOnPlanets: [erekir, serpulo]

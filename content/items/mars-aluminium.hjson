@@ -1,0 +1,8 @@
+name: Aluminium
+description: Used in electronics.
+hardness: 1
+cost: 1
+alwaysUnlocked: false
+color: 9d9aaf
+research: mars-iron
+hiddenOnPlanets: [erekir, serpulo]
