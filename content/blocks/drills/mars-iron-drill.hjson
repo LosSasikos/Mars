@@ -1,0 +1,15 @@
+name: Iron Drill
+description: Mine ores
+type: Drill
+health: 240
+size: 2
+tier: 1
+drillTime: 500
+requirements: [
+  mars-iron/25
+]
+research: core-octave
+researchCost: [
+  mars-iron/50
+]
+category: production
