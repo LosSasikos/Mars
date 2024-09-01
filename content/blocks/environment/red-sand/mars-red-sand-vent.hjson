@@ -1,7 +1,7 @@
 type: SteamVent
 name: Red Sand Vent
-blendGroup: red-sand-floor
-parent: red-sand-floor
+blendGroup: mars-red-sand-floor
+parent: mars-red-sand-floor
 attributes: {
    steam: 1
 }
