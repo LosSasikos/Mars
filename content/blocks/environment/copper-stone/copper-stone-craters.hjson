@@ -1,0 +1,4 @@
+type: Floor
+name: Copper Stone Craters
+blendGroup: copper-stone-floor
+variants: 4

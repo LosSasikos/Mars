@@ -1,0 +1,8 @@
+type: SteamVent
+name: Copper Stone Vent
+blendGroup: copper-stone-floor
+parent: copper-stone-floor
+attributes: {
+   steam: 1
+}
+variants: 2
