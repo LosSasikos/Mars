@@ -1,0 +1,13 @@
+name: Large Aluminium Wall
+description: lol.
+type: Wall
+health: 1400
+size: 2
+requirements: [
+  mars-aluminium/24
+]
+research: mars-aluminium-wall
+researchCost: [
+  mars-aluminium/192
+]
+category: defense
