@@ -68,6 +68,20 @@ mesh: [
     scale: 0.24
     mag: 0.7
   }
+  {
+    // copper
+    type: NoiseMesh
+    planet: mars
+    divisions: 5
+    radius: 0.76
+    seed: 45
+    color1: b37f69
+    color2: b37f69
+    octaves: 5.3
+    persistence: 1.1
+    scale: 0.45
+    mag: 0.7
+  }
 ]
 cloudMesh: [
   {
