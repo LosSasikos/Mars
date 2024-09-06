@@ -51,7 +51,7 @@ mesh: [
     color2: 782537
     octaves: 5.5
     persistence: 1.1
-    scale: 0.74
+    scale: 0.60
     mag: 0.7
   }
   {
@@ -65,7 +65,7 @@ mesh: [
     color2: f5a1a1
     octaves: 5.4
     persistence: 1.1
-    scale: 0.24
+    scale: 0.10
     mag: 0.7
   }
   {
@@ -79,7 +79,7 @@ mesh: [
     color2: b37f69
     octaves: 5.3
     persistence: 1.1
-    scale: 0.45
+    scale: 0.20
     mag: 0.7
   }
 ]
