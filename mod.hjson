@@ -5,4 +5,5 @@ author: "Los Sasikos"
 version: 0.0.1
 minGameVersion: 136
 hidden: false
+hideBrowser: false
 repo: "LosSasikos/Mars"
