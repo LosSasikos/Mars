@@ -1,3 +1,4 @@
 type: StaticWall
 name: Red Sand Wall
+mapColor: a83d44
 variants: 3
