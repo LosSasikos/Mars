@@ -8,4 +8,4 @@ Omagad, you've landed on a red planet that looks suspiciously like Erekir. But t
 Very very very early alpha.
 
 # Help Wanted
-You can help me if you become one of the Mars developers. In fact, I do everything myself. If you decide to do it, just tell me about it on Discord.
+You can help me if you become one of the Mars developers. In fact, I do everything myself. If you decide to do it, just tell me about it on Discord. (@los_sasikos)
