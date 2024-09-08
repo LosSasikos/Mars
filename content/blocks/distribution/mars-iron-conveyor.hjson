@@ -1,0 +1,14 @@
+name: Iron Conveyor
+description: Transport.
+type: Conveyor
+health: 35
+speed: 0.05
+itemCapacity: 3
+requirements: [
+  mars-iron/1
+]
+research: core-octave
+researchCost: [
+  mars-iron/20
+]
+category: distribution
