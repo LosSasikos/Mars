@@ -2,3 +2,4 @@ type: Floor
 name: Red Sand Craters
 variants: 6
 blendGroup: mars-red-sand-floor
+mapColor: a83d44
