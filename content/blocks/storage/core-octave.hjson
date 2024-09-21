@@ -2,11 +2,11 @@ name: Core: Octave
 description: The core of the base. Armored. Once destroyed, all contact with the region is lost.
 type: CoreBlock
 isFirstTier: true
-health: 1730
+health: 1280
 squareSprite: false
-size: 4
-armor: 8
-itemCapacity: 3000
+size: 3
+armor: 4
+itemCapacity: 1500
 unitCapModifier: 7
 researchCostMultiplier: 0.06
 buildCost: 10.0
