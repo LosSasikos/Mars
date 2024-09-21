@@ -1,0 +1,19 @@
+name: Core: Octave
+description: The core of the base. Armored. Once destroyed, all contact with the region is lost.
+type: CoreBlock
+isFirstTier: false
+health: 2560
+squareSprite: false
+size: 4
+armor: 8
+itemCapacity: 3000
+unitCapModifier: 7
+researchCostMultiplier: 0.06
+buildCost: 15.0
+unitType: unit-core-sound
+requirements: [
+  mars-iron/1500
+  mars-aluminium/1000
+]
+category: effect
+research: core-octave
