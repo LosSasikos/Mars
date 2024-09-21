@@ -1,4 +1,4 @@
-name: Core: Octave
+name: Core: Accord
 description: The core of the base. Armored. Once destroyed, all contact with the region is lost.
 type: CoreBlock
 isFirstTier: false
