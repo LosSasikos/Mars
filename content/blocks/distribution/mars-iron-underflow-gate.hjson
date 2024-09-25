@@ -1,4 +1,4 @@
-name: Iron Sorter
+name: Iron Underflow gate
 description: Transport.
 type: OverflowGate
 health: 35
