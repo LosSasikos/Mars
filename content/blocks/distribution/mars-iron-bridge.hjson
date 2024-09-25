@@ -1,0 +1,15 @@
+name: Iron Sorter
+description: Transport.
+type: DuctBridge
+health: 35
+range: 4
+speed: 3 
+itemCapacity: 3
+requirements: [
+  mars-iron/3
+]
+research: mars-iron-router
+researchCost: [
+  mars-iron/35
+]
+category: distribution

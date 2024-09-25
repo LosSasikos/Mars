@@ -1,0 +1,15 @@
+name: Iron Sorter
+description: Transport.
+type: OverflowGate
+health: 35
+speed: 1
+itemCapacity: 1
+invert: true
+requirements: [
+  mars-iron/6
+]
+research: mars-iron-overflow-gate
+researchCost: [
+  mars-iron/60
+]
+category: distribution

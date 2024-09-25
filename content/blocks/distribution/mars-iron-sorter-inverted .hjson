@@ -1,0 +1,15 @@
+name: Inverted Iron Sorter
+description: Transport.
+type: Sorter
+health: 35
+speed: 4
+itemCapacity: 3
+invert: true
+requirements: [
+  mars-iron/4
+]
+research: mars-iron-sorter
+researchCost: [
+  mars-iron/40
+]
+category: distribution

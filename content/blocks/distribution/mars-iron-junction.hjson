@@ -1,0 +1,14 @@
+name: Iron Router
+description: Transport.
+type: Junction
+health: 35
+speed: 4
+itemCapacity: 6
+requirements: [
+  mars-iron/2
+]
+research: mars-iron-conveyor
+researchCost: [
+  mars-iron/25
+]
+category: distribution

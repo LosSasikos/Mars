@@ -1,0 +1,14 @@
+name: Iron Sorter
+description: Transport.
+type: Sorter
+health: 35
+speed: 4
+itemCapacity: 3
+requirements: [
+  mars-iron/4
+]
+research: mars-iron-router
+researchCost: [
+  mars-iron/40
+]
+category: distribution
