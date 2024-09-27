@@ -9,3 +9,6 @@ Very very very early alpha.
 
 # Help Wanted
 You can help me if you become one of the Mars developers. In fact, I do everything myself. If you decide to do it, just tell me about it on Discord. (@los_sasikos)
+
+# Discord
+The mod already has a Discord server. Invite link: https://discord.gg/hP4yjCREVG
