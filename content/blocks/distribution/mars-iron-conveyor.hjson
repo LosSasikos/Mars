@@ -4,6 +4,8 @@ type: Conveyor
 health: 35
 speed: 0.05
 itemCapacity: 3
+junctionReplacement: mars-iron-junction
+bridgeReplacement: mars-iron-bridge
 requirements: [
   mars-iron/1
 ]
