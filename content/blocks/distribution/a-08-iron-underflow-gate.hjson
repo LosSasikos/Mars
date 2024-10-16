@@ -6,10 +6,10 @@ speed: 1
 itemCapacity: 1
 invert: true
 requirements: [
-  mars-iron/6
+  mars-iron/30
 ]
-research: mars-iron-overflow-gate
+research: a-07-iron-overflow-gate
 researchCost: [
-  mars-iron/60
+  mars-iron/30
 ]
 category: distribution
