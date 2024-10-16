@@ -6,7 +6,7 @@ size: 2
 requirements: [
   mars-aluminium/24
 ]
-research: mars-aluminium-wall
+research: a-01-aluminium-wall
 researchCost: [
   mars-aluminium/192
 ]
