@@ -7,8 +7,8 @@ itemCapacity: 6
 requirements: [
   mars-iron/2
 ]
-research: mars-iron-conveyor
+research: a-01-iron-conveyor
 researchCost: [
-  mars-iron/25
+  mars-iron/10
 ]
 category: distribution
