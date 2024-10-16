@@ -1,4 +1,4 @@
-name: Large Aluminium Wall
+name: Aluminium Wall
 description: lol.
 type: Wall
 health: 350
@@ -6,7 +6,7 @@ size: 1
 requirements: [
   mars-aluminium/6
 ]
-research: core-octave
+research: a-01-core-octave
 researchCost: [
   mars-aluminium/48
 ]
