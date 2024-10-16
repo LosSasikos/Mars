@@ -5,10 +5,10 @@ health: 35
 speed: 1
 itemCapacity: 1
 requirements: [
-  mars-iron/6
+  mars-iron/3
 ]
-research: mars-iron-sorter
+research: a-03-iron-sorter
 researchCost: [
-  mars-iron/60
+  mars-iron/30
 ]
 category: distribution
