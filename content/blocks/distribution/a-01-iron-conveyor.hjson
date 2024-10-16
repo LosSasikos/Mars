@@ -4,13 +4,13 @@ type: Conveyor
 health: 35
 speed: 0.05
 itemCapacity: 3
-junctionReplacement: mars-iron-junction
-bridgeReplacement: mars-iron-bridge
+junctionReplacement: a-02-iron-junction
+bridgeReplacement: a-06-iron-bridge
 requirements: [
   mars-iron/1
 ]
 research: core-octave
 researchCost: [
-  mars-iron/20
+  mars-iron/5
 ]
 category: distribution
