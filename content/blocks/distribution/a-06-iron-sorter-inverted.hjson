@@ -8,7 +8,7 @@ invert: true
 requirements: [
   mars-iron/4
 ]
-research: mars-iron-sorter
+research: a-05-iron-sorter
 researchCost: [
   mars-iron/40
 ]
