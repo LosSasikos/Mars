@@ -7,7 +7,7 @@ itemCapacity: 3
 requirements: [
   mars-iron/4
 ]
-research: mars-iron-router
+research: a-03-iron-router
 researchCost: [
   mars-iron/40
 ]
