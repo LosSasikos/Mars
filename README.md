@@ -1,14 +1,12 @@
 # Mars
-A small Mindustry mod, that add a red planet called Mars
+A small Mindustry mod, that add a red planet called Mars... Or?
 
 # Description
-Omagad, you've landed on a red planet that looks suspiciously like Erekir. But this is not Erekir, this is Mars, a real planet, by the way. And then I don't know what to write, lol.
+Omagad, you've landed on a red planet that looks suspiciously like Erekir fused with something else. But... it is unfinished and off-balance! Woah!
 
 # What Da Version?
-Very very very early alpha.
+THW TRUTH UPON US
 
 # Help Wanted
-You can help me if you become one of the Mars developers. In fact, I do everything myself. If you decide to do it, just tell me about it on Discord. (@los_sasikos)
-
-# Discord
-The mod already has a Discord server. Invite link: https://discord.gg/hP4yjCREVG
+You can help me if you become one of the MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-
+If you become one of the developer of my another mod. What da mod? You'll see it soon as I can work
